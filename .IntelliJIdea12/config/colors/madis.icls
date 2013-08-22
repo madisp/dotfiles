@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scheme name="madis" version="124" parent_scheme="Default">
+  <option name="LINE_SPACING" value="1.1" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_NAME" value="Liberation Mono" />
+  <colors>
+    <option name="WHITESPACES" value="c9c9c9" />
+  </colors>
+  <attributes />
+</scheme>
+
