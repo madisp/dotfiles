@@ -11,15 +11,18 @@ set showmode
 
 set number
 
-set list
-set listchars=tab:▷⋅,trail:⋅,nbsp:⋅
+set ruler
 
 set wrap
 set linebreak
+
+:set mouse=nicr
 
 syntax on
 filetype plugin indent on
 colorscheme vividchalk
 au BufRead,BufNewFile *.rabl setf ruby
-set tabstop=4
-set shiftwidth=4
+set hlsearch
+set expandtab
+set tabstop=2
+set shiftwidth=2

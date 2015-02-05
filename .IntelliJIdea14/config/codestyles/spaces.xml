@@ -1,0 +1,22 @@
+<code_scheme name="spaces">
+  <option name="FIELD_NAME_PREFIX" value="m" />
+  <option name="STATIC_FIELD_NAME_PREFIX" value="s" />
+  <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
+  <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
+  <AndroidXmlCodeStyleSettings>
+    <option name="USE_CUSTOM_SETTINGS" value="true" />
+  </AndroidXmlCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="JAVA">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="XML">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
