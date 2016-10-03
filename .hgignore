@@ -1,0 +1,14 @@
+syntax: glob
+
+# IntelliJ / studio stuff
+*.iml
+.idea
+
+# vim swap files
+*.swp
+
+# MacOS crap
+.DS_Store
+.ant_targets
+
+jr-android-ide-studio.iml
